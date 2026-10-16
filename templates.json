@@ -1,0 +1,216 @@
+[
+  {
+    "id": "retail-box",
+    "name": "Retail box",
+    "description": "A product carton with a print-ready dieline layout: logo and name on the front, icon on the lid, website on the side.",
+    "shelf": "packaging",
+    "triangles": 12,
+    "bytes": 2316,
+    "params": [
+      "Width 120 mm",
+      "Height 180 mm",
+      "Depth 60 mm"
+    ]
+  },
+  {
+    "id": "mailer-box",
+    "name": "Mailer box",
+    "description": "A shipping mailer branded on the lid, the way unboxing photos show it.",
+    "shelf": "packaging",
+    "triangles": 12,
+    "bytes": 2312,
+    "params": [
+      "Width 300 mm",
+      "Height 100 mm",
+      "Depth 220 mm"
+    ]
+  },
+  {
+    "id": "drinks-can",
+    "name": "Drinks can",
+    "description": "A 330 ml aluminium can; the logo wraps around the curve.",
+    "shelf": "packaging",
+    "triangles": 7168,
+    "bytes": 222708,
+    "params": [
+      "Diameter 66 mm",
+      "Height 115 mm"
+    ]
+  },
+  {
+    "id": "glass-bottle",
+    "name": "Glass bottle",
+    "description": "A beverage bottle with a wrap-around paper label and a cap in your colour.",
+    "shelf": "packaging",
+    "triangles": 12864,
+    "bytes": 381728,
+    "params": [
+      "Diameter 70 mm",
+      "Height 240 mm"
+    ]
+  },
+  {
+    "id": "coffee-cup",
+    "name": "Coffee cup",
+    "description": "A takeaway cup with a kraft sleeve and lid.",
+    "shelf": "packaging",
+    "triangles": 7040,
+    "bytes": 223232,
+    "params": [
+      "Top diameter 90 mm",
+      "Height 110 mm"
+    ]
+  },
+  {
+    "id": "glass-jar",
+    "name": "Glass jar",
+    "description": "A preserve jar with a label and a lid in your colour.",
+    "shelf": "packaging",
+    "triangles": 7488,
+    "bytes": 233016,
+    "params": [
+      "Diameter 85 mm",
+      "Height 100 mm"
+    ]
+  },
+  {
+    "id": "stand-up-pouch",
+    "name": "Stand-up pouch",
+    "description": "A flexible pouch for coffee, snacks or supplements.",
+    "shelf": "packaging",
+    "triangles": 4088,
+    "bytes": 121020,
+    "params": [
+      "Width 160 mm",
+      "Height 230 mm",
+      "Gusset 80 mm"
+    ]
+  },
+  {
+    "id": "mug",
+    "name": "Mug",
+    "description": "A ceramic mug with the inside and handle in your colour.",
+    "shelf": "merch",
+    "triangles": 9792,
+    "bytes": 298300,
+    "params": [
+      "Diameter 82 mm",
+      "Height 95 mm"
+    ]
+  },
+  {
+    "id": "tote-bag",
+    "name": "Tote bag",
+    "description": "A natural canvas tote with handles in your colour.",
+    "shelf": "merch",
+    "triangles": 2892,
+    "bytes": 164644,
+    "params": [
+      "Width 380 mm",
+      "Height 420 mm"
+    ]
+  },
+  {
+    "id": "water-bottle",
+    "name": "Water bottle",
+    "description": "An insulated steel bottle in powder-coat colour.",
+    "shelf": "merch",
+    "triangles": 11456,
+    "bytes": 340692,
+    "params": [
+      "Diameter 73 mm",
+      "Height 260 mm"
+    ]
+  },
+  {
+    "id": "rollup-banner",
+    "name": "Roll-up banner",
+    "description": "An event pull-up banner: logo, name, tagline and contact details.",
+    "shelf": "signage",
+    "triangles": 3108,
+    "bytes": 329096,
+    "params": [
+      "Width 850 mm",
+      "Height 2000 mm"
+    ]
+  },
+  {
+    "id": "flag",
+    "name": "Flag",
+    "description": "A pole flag in your colour with the logo flowing over the fabric.",
+    "shelf": "signage",
+    "triangles": 1600,
+    "bytes": 61516,
+    "params": [
+      "Width 1500 mm",
+      "Height 900 mm"
+    ]
+  },
+  {
+    "id": "storefront-sign",
+    "name": "Storefront sign",
+    "description": "A shop fascia with your name, and window vinyl for opening hours or a phone number.",
+    "shelf": "signage",
+    "triangles": 8748,
+    "bytes": 950344,
+    "params": [
+      "Sign width 3000 mm",
+      "Sign height 700 mm"
+    ]
+  },
+  {
+    "id": "a-frame-sign",
+    "name": "A-frame sign",
+    "description": "A pavement sign for cafés and shops.",
+    "shelf": "signage",
+    "triangles": 1944,
+    "bytes": 211416,
+    "params": [
+      "Width 600 mm",
+      "Height 900 mm"
+    ]
+  },
+  {
+    "id": "phone-case",
+    "name": "Phone case",
+    "description": "A soft-touch phone case with a camera bump.",
+    "shelf": "devices",
+    "triangles": 1784,
+    "bytes": 73520,
+    "params": [
+      "Width 75 mm",
+      "Height 150 mm",
+      "Thickness 10 mm"
+    ]
+  },
+  {
+    "id": "laptop",
+    "name": "Laptop lid",
+    "description": "A laptop with your logo on the lid — skins, sleeves and fleet devices.",
+    "shelf": "devices",
+    "triangles": 1400,
+    "bytes": 49500,
+    "params": [
+      "Width 310 mm",
+      "Depth 220 mm"
+    ]
+  },
+  {
+    "id": "box-truck",
+    "name": "Box truck",
+    "description": "A delivery truck with a big white box — logo, name and website on both sides, phone on the back.",
+    "shelf": "fleet",
+    "triangles": 11716,
+    "bytes": 1226088,
+    "params": []
+  },
+  {
+    "id": "ambulance",
+    "name": "Ambulance",
+    "description": "A box ambulance with a livery stripe in your colour.",
+    "shelf": "fleet",
+    "triangles": 13684,
+    "bytes": 1440984,
+    "params": []
+  }
+]
